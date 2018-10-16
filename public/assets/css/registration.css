@@ -1,0 +1,48 @@
+#registration{
+    background: lightgray;
+    background-image: url("./squad-car-1209719_1280.jpg");
+    font-family: sans-serif;
+
+}
+
+#registration .form-wrap{
+    width: 320px;
+    background: grey;
+    opacity: .8; 
+    padding: 40px 20px; 
+    box-sizing: border-box; 
+    position: fixed; 
+    left: 50%; 
+    top: 50%; 
+    transform: 
+    translate(-50%, -50%);}
+
+#registration h1{
+    text-align: center;
+    color: #fff;
+    font-weight: normal;
+    margin-bottom: 20px;}
+
+#registration input{
+    width: 100%; 
+    background: none; 
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding: 6px 15px; 
+    box-sizing: border-box; 
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #fff;}
+
+#registration input[type="button"]{
+     background: blue; 
+     border: 0;
+     cursor: pointer; 
+     color: white;}
+
+#registration input[type="button"]:hover{ 
+    background: darkblue; 
+    transition: .6s;}
+
+#registration ::placeholder{
+    color: #fff;}

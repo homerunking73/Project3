@@ -1,0 +1,1903 @@
+{
+	"features": [{
+			"_rev": "1-1d373e40bbc529c45640c5ef16446602",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ed7ca4",
+			"properties": {
+				"compnos": "cc8b0f2f41f296d195914d36fccf83498966ad0c25e56895e5e4ae46897702c7",
+				"updated": 1472152944068,
+				"type": "Drugs",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Noble Street"
+			},
+			"geometry": {
+				"coordinates": [-0.095892,
+					51.516391
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-c216d480a31ce2b48ced9dc3848d8a14",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2855f33",
+			"properties": {
+				"compnos": "72f38fe7f47054a40373cffbdf90537b3450d62c3cd2bab52a3db8a936bb07f5",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Noble Street"
+			},
+			"geometry": {
+				"coordinates": [-0.095892,
+					51.516391
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-2ee1cee201f1d1e76781041b02f0dd75",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2860424",
+			"properties": {
+				"compnos": "a2168f6407c6b35f2779f0fd55f0444b7c5e3b9b20706e85c0a289630f201f44",
+				"updated": 1477524350128,
+				"type": "Violence and sexual offences",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Noble Street"
+			},
+			"geometry": {
+				"coordinates": [-0.095892,
+					51.516391
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"compnos": "ab8cefa63f38c7da69797b55d50283de7c1fbd1a4a5f0a9c7a65dc70206d9996",
+				"updated": 1469124210380,
+				"type": "Other theft",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Noble Street"
+			},
+			"geometry": {
+				"coordinates": [-0.095892,
+					51.516391
+				],
+				"type": "Point"
+			},
+			"_rev": "1-75cbb89fb3bf717241641d4ec48cc369",
+			"_id": "c286506c9127d016ccf4c49cc1ed8e39",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-208443415b2aef254a5ed8424f733a8c",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e37fe",
+			"properties": {
+				"compnos": "72f38fe7f47054a40373cffbdf90537b3450d62c3cd2bab52a3db8a936bb07f5",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Noble Street"
+			},
+			"geometry": {
+				"coordinates": [-0.095892,
+					51.516391
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-de534ab0261e0d64481d4550682d4586",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220ec7ce",
+			"properties": {
+				"compnos": "a2168f6407c6b35f2779f0fd55f0444b7c5e3b9b20706e85c0a289630f201f44",
+				"updated": 1477510177212,
+				"type": "Violence and sexual offences",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Noble Street"
+			},
+			"geometry": {
+				"coordinates": [-0.095892,
+					51.516391
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-7297d95d4377f30dd77c964ce62925ec",
+			"type": "Feature",
+			"Reported by": "Metropolitan Police Service",
+			"_id": "3574065e0878591d369d25f8a925d9c0",
+			"properties": {
+				"compnos": "1c6a819b0dd74993c01b2cfd955e9531d568f7bcb75a535220ee6366614be497",
+				"updated": 1477510927136,
+				"type": "Public order",
+				"timestamp": 1470024000000,
+				"source": "UK-Metropolitan Police Service",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-e5f9515d2fce5d33668fdbf7f0261879",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7b0457",
+			"properties": {
+				"compnos": "3266176cab3bac10f8d4b223b8ced752fcc60a0003139f082175c350b6f73b2f",
+				"updated": 1477522795278,
+				"type": "Other theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-36c4cc2d33b2c859fd4997739cecd249",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7b3c24",
+			"properties": {
+				"compnos": "94e85c3e275d4173eb49d1e5327ccbb932aadd6a9fbc21a91f7526f487851600",
+				"updated": 1477522795279,
+				"type": "Theft from the person",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-939edefa4dac8a10adaf13ed29d491aa",
+			"type": "Feature",
+			"Reported by": "Metropolitan Police Service",
+			"_id": "a94b270a22a2416b79198bd275fdde51",
+			"properties": {
+				"compnos": "1c6a819b0dd74993c01b2cfd955e9531d568f7bcb75a535220ee6366614be497",
+				"updated": 1477524793035,
+				"type": "Public order",
+				"timestamp": 1470024000000,
+				"source": "UK-Metropolitan Police Service",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-8728c724a914fa44d123fc696fa818fd",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2853ea5",
+			"properties": {
+				"compnos": "2d9a1505482cffd218e4f1312d9bcd02b6287145bef074f951c494cc49fe1734",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-b2d745300daf22f7982270d9e0abe231",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2856de0",
+			"properties": {
+				"compnos": "87ced4997c9e3e992e1e9d79625a36d065f1afd2912b213539365a265813a011",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"compnos": "6e098095715369f9766ad9d7075d91d5b5b1867c1d8d65ca737b7a3002c7af3f",
+				"updated": 1469124210380,
+				"type": "Vehicle crime",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			},
+			"_rev": "1-10f34870ed838443aae7e3f77bce9b98",
+			"_id": "c286506c9127d016ccf4c49cc1edcfa8",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-de85b30d28ab1b0e3d96048fb4d91558",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e1cd3",
+			"properties": {
+				"compnos": "2d9a1505482cffd218e4f1312d9bcd02b6287145bef074f951c494cc49fe1734",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-e9685bc32724c8552fe28bbb3efd2d4f",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e44d2",
+			"properties": {
+				"compnos": "87ced4997c9e3e992e1e9d79625a36d065f1afd2912b213539365a265813a011",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near London Wall"
+			},
+			"geometry": {
+				"coordinates": [-0.09596,
+					51.517534
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-03b82255a6494602098bf152a662fddf",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ee1bc7",
+			"properties": {
+				"compnos": "249b61187b9b436b66cbcba69fd529037bfdde924f14b7dead30d52d4c803a05",
+				"updated": 1472152944069,
+				"type": "Other theft",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-cd9fa704f82b79b2a8af1961d8c4f025",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7b84fe",
+			"properties": {
+				"compnos": "a6f06094e229970bc3a745be18b06e62f698df3085cf38cf1c22317e81a4415d",
+				"updated": 1477522795279,
+				"type": "Bicycle theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-3b41d4a5a46ead060b332b1042bb61d7",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7bb499",
+			"properties": {
+				"compnos": "83453090cbd0fe5cc2d092a67ac61a88c82390da16c5f289664a087796d32808",
+				"updated": 1477522795279,
+				"type": "Violence and sexual offences",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-7823581ee05fba219513f7b1b4f91bff",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2862410",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1477524350128,
+				"timestamp": 1470024000000,
+				"location": "On or near Conference/Exhibition Centre",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-3e6a660061553092c6afa88592b5b7a9",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2865faa",
+			"properties": {
+				"compnos": "3079d897ff01bc9e356b282203084c3d94666c38ff2971a9c2b56ffb62c0c9fd",
+				"updated": 1477524350128,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-4beefe860151f0262be6674a7004a6a7",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b28661f7",
+			"properties": {
+				"compnos": "4ffff3319da65fbd9be4fc813082cfec3a4602b933cceb4852b10cc22e8952c8",
+				"updated": 1477524350129,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-68b73c93f9efac90c652743731c18e14",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b286b313",
+			"properties": {
+				"compnos": "6531982cf4ea101cc40bafa10c8908245a86d67e5770dfea302adfeea0e03fbe",
+				"updated": 1477524350129,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-47f73193d0d6e04b3119c895cc246842",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220ee762",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1477510177212,
+				"timestamp": 1470024000000,
+				"location": "On or near Conference/Exhibition Centre",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-ff11f94095cc613a280d0cae4ea5ea46",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220f24b1",
+			"properties": {
+				"compnos": "3079d897ff01bc9e356b282203084c3d94666c38ff2971a9c2b56ffb62c0c9fd",
+				"updated": 1477510177213,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-5531fa24103ceb164910e963c9562f35",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220f270b",
+			"properties": {
+				"compnos": "4ffff3319da65fbd9be4fc813082cfec3a4602b933cceb4852b10cc22e8952c8",
+				"updated": 1477510177213,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-08e319e48981ae526b68ca511fbecd28",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220f7104",
+			"properties": {
+				"compnos": "6531982cf4ea101cc40bafa10c8908245a86d67e5770dfea302adfeea0e03fbe",
+				"updated": 1477510177213,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Conference/Exhibition Centre"
+			},
+			"geometry": {
+				"coordinates": [-0.0954,
+					51.515753
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-67ed70d92097e424919a870683fbb8b9",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7b9e89",
+			"properties": {
+				"compnos": "f25d5532e2c915538cdce4d913a386f5d284ed2d119a140ff6b3481926b93878",
+				"updated": 1477522795279,
+				"type": "Other theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Gutter Lane"
+			},
+			"geometry": {
+				"coordinates": [-0.095484,
+					51.515467
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"compnos": "bb4d7ec148d1c781f55fca48789649b86619bead54d66c47245074df294f0538",
+				"updated": 1469124210381,
+				"type": "Other crime",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Gutter Lane"
+			},
+			"geometry": {
+				"coordinates": [-0.095484,
+					51.515467
+				],
+				"type": "Point"
+			},
+			"_rev": "1-0a41e68bf278db0fa2ad2a62f1ac64d9",
+			"_id": "c286506c9127d016ccf4c49cc1ee3756",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-056886743137ca4043b7eef911b19c23",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7b6bbf",
+			"properties": {
+				"compnos": "a35567535d89b4ec1477180f29521dd598865735f45b774eacae587b85b3f0bf",
+				"updated": 1477522795279,
+				"type": "Other crime",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Foster Lane"
+			},
+			"geometry": {
+				"coordinates": [-0.096348,
+					51.515472
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-509bffca11ba619a3a51fd7b453d2b42",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285a9da",
+			"properties": {
+				"compnos": "0bef444f02a697c55a515c714ee62c255946718b3fba290fb7fd13e331e71d2d",
+				"updated": 1477524350127,
+				"type": "Public order",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Foster Lane"
+			},
+			"geometry": {
+				"coordinates": [-0.096348,
+					51.515472
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-7193819bc1448a7f3affa337486a00cd",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e7963",
+			"properties": {
+				"compnos": "0bef444f02a697c55a515c714ee62c255946718b3fba290fb7fd13e331e71d2d",
+				"updated": 1477510177212,
+				"type": "Public order",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Foster Lane"
+			},
+			"geometry": {
+				"coordinates": [-0.096348,
+					51.515472
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-0b7f3fe399f3ce46a720d35f5af12e95",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902edf9ff",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1472152944068,
+				"timestamp": 1467345600000,
+				"location": "On or near Gresham Street",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.094094,
+					51.515606
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-6cfcbabf27158f088a23c08e6a9c49d8",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7ae58c",
+			"properties": {
+				"compnos": "d6478c5e3f5aba6c033d1ff91052eb54f9e8853d0c92ab5f93a86f9f2e61ed06",
+				"updated": 1477522795278,
+				"type": "Other theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Aldersgate Street"
+			},
+			"geometry": {
+				"coordinates": [-0.097053,
+					51.518262
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-84c694e6f38838c563d03d0cb122d695",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902eda8a4",
+			"properties": {
+				"compnos": "a32bc02814ba7d2bd9ddce9e1f8b6044478fe01fa34b43c1aa833dc52b3368d7",
+				"updated": 1472152944068,
+				"type": "Shoplifting",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-551ce35bc24f1b3cadf670ee7cd862b1",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7b7430",
+			"properties": {
+				"compnos": "cdcd640cdc544ffaa604c95e8dfb76f837217ebc6149bd64f25fe73a15808d76",
+				"updated": 1477522795279,
+				"type": "Other crime",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-0b466531f644fec2757a64eccc7a7b9a",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285b9ea",
+			"properties": {
+				"compnos": "835ee2134fdcce01d0559a154ef1d5253ceaeb28d8c1d7d9926ebde175c6c38d",
+				"updated": 1477524350127,
+				"type": "Shoplifting",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-57447058d1e3f23d456b21a95b639367",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285cf74",
+			"properties": {
+				"compnos": "b0d36e938098e4007dd9a9cbb8cd1612e4bcbf6ad5bf2ca15725deded6547ea9",
+				"updated": 1477524350127,
+				"type": "Shoplifting",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"compnos": "07253a3a432057071b79a02543673ab60380612bca5199c8b7e658035077e57f",
+				"updated": 1469124210380,
+				"type": "Bicycle theft",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			},
+			"_rev": "1-901b4d617667bd4ad24df9189a56d075",
+			"_id": "c286506c9127d016ccf4c49cc1ed6466",
+			"type": "Feature"
+		},
+		{
+			"properties": {
+				"compnos": "5d70215555fc95edd9e1704340aa03e36db0ef1506c7797d6a29846b9757dc9e",
+				"updated": 1469124210380,
+				"type": "Shoplifting",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			},
+			"_rev": "1-858f568baf8edcb027c203a472204077",
+			"_id": "c286506c9127d016ccf4c49cc1edc177",
+			"type": "Feature"
+		},
+		{
+			"properties": {
+				"compnos": "14d25c907ea6b55164133c494e11af88699237ad9b58167dbdc6464c1ebe97b6",
+				"updated": 1469124210380,
+				"type": "Shoplifting",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			},
+			"_rev": "1-cc74a30dc3ea502312eb1af6f41c533f",
+			"_id": "c286506c9127d016ccf4c49cc1edc9ee",
+			"type": "Feature"
+		},
+		{
+			"properties": {
+				"compnos": "7b3c7ce111b8bec2c4cb1cc78294af9124a4b5765be0713d898cb197f409f144",
+				"updated": 1469124210380,
+				"type": "Other crime",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			},
+			"_rev": "1-36aa8d36127be5838a29daaa11ac000a",
+			"_id": "c286506c9127d016ccf4c49cc1edd64e",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-875a6d0dd5f7242e2abd7e2a8a676e08",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e8c6f",
+			"properties": {
+				"compnos": "835ee2134fdcce01d0559a154ef1d5253ceaeb28d8c1d7d9926ebde175c6c38d",
+				"updated": 1477510177212,
+				"type": "Shoplifting",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-432577456181c54c8a4780a096a60ef8",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220ea28b",
+			"properties": {
+				"compnos": "b0d36e938098e4007dd9a9cbb8cd1612e4bcbf6ad5bf2ca15725deded6547ea9",
+				"updated": 1477510177212,
+				"type": "Shoplifting",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097277,
+					51.515307
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-f93d503fe7fbd83e4f5adc41e322605e",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7b29a3",
+			"properties": {
+				"compnos": "a15bc8623ec3ffbe9a16dada41714699a3fc9322367f0933e4a56f5b1715b9ee",
+				"updated": 1477522795279,
+				"type": "Shoplifting",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097223,
+					51.515225
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-3f700d30e3efc9318c78aa05bfb4ecd5",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285c5f6",
+			"properties": {
+				"compnos": "b2b3a6bd62bafca9f0ef4c5d164b99927ba4cd5f4721d0154a7a9e4463e2aa8f",
+				"updated": 1477524350127,
+				"type": "Shoplifting",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097223,
+					51.515225
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"compnos": "da53d5bb083849c5d3d868d7223f3ba672c0af185abe457ec90391dd0032bf5a",
+				"updated": 1469124210380,
+				"type": "Shoplifting",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097223,
+					51.515225
+				],
+				"type": "Point"
+			},
+			"_rev": "1-f5903ab445e5f081253e877619d62584",
+			"_id": "c286506c9127d016ccf4c49cc1edb730",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-f5185afdc3443571b0826d6bbf2344c8",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e98d6",
+			"properties": {
+				"compnos": "b2b3a6bd62bafca9f0ef4c5d164b99927ba4cd5f4721d0154a7a9e4463e2aa8f",
+				"updated": 1477510177212,
+				"type": "Shoplifting",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near St Martin'S Le Grand"
+			},
+			"geometry": {
+				"coordinates": [-0.097223,
+					51.515225
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-4d0784daaa905bd0c06ef966bd67e1a8",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b286a78f",
+			"properties": {
+				"compnos": "65ebcd78070736303a4b209ae40028ee86d535ecfe37bc30347fe727928168da",
+				"updated": 1477524350129,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Police Station"
+			},
+			"geometry": {
+				"coordinates": [-0.093558,
+					51.516703
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-7ec1614b3d67dad2395421791c210a69",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220f63cc",
+			"properties": {
+				"compnos": "65ebcd78070736303a4b209ae40028ee86d535ecfe37bc30347fe727928168da",
+				"updated": 1477510177213,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Police Station"
+			},
+			"geometry": {
+				"coordinates": [-0.093558,
+					51.516703
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-6e7a307a5ff822bde2fc7db9612910dc",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ee38a5",
+			"properties": {
+				"compnos": "99b292d9611733a02a70c2671b6a58e9394a1940472467a52997fb3c41be32d6",
+				"updated": 1472152944069,
+				"type": "Theft from the person",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Monkwell Square"
+			},
+			"geometry": {
+				"coordinates": [-0.093948,
+					51.518077
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-05b71e52c3d1aaaeab6b32f59eb0f580",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2863043",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1477524350128,
+				"timestamp": 1470024000000,
+				"location": "On or near Monkwell Square",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.093948,
+					51.518077
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-05b71e52c3d1aaaeab6b32f59eb0f580",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b28640b3",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1477524350128,
+				"timestamp": 1470024000000,
+				"location": "On or near Monkwell Square",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.093948,
+					51.518077
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1469124210381,
+				"timestamp": 1464753600000,
+				"location": "On or near Monkwell Square",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.093948,
+					51.518077
+				],
+				"type": "Point"
+			},
+			"_rev": "1-f3789aaa59f3fa5042a57d6e078c2126",
+			"_id": "c286506c9127d016ccf4c49cc1edf911",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-85273f43aa3abce612a2f93b258c858c",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220ef3b4",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1477510177212,
+				"timestamp": 1470024000000,
+				"location": "On or near Monkwell Square",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.093948,
+					51.518077
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-85273f43aa3abce612a2f93b258c858c",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220f082a",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1477510177212,
+				"timestamp": 1470024000000,
+				"location": "On or near Monkwell Square",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.093948,
+					51.518077
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-60aa0cb3afebb07fc7270b489525390c",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ed393f",
+			"properties": {
+				"source": "UK-City of London Police",
+				"updated": 1472152944067,
+				"timestamp": 1467345600000,
+				"location": "On or near Montague Street",
+				"type": "Anti-social behaviour"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-ce77f2197cd6a2900c4a97a3aa547261",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ed6b73",
+			"properties": {
+				"compnos": "c7b3efef85e1b44a7b183389341d7619db7c3dbfaeb4d502edfd518d587b6c22",
+				"updated": 1472152944068,
+				"type": "Bicycle theft",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-a6c00bd253cff84d8312ca9df78dac2a",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ed6cee",
+			"properties": {
+				"compnos": "dcde87e0b5fa55342fc0a9bd25a9a6f7d0e9e8a779202cfc9c67e5f1ddd7f25e",
+				"updated": 1472152944068,
+				"type": "Criminal damage and arson",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-55920df8db56bc57a331864d9bffa6f6",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902eda629",
+			"properties": {
+				"compnos": "a1a7be9e43d283d6e54333f75f86104aedaefda4ddb0eb4fc3fe7c487161e617",
+				"updated": 1472152944068,
+				"type": "Other theft",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-0adde900adb4fc27b1b2d3b9c1148e5d",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902edbe7e",
+			"properties": {
+				"compnos": "b2ec5b2cdf2f34b8915651cc364c3144b458fab262d782463eb6d8b846e275dc",
+				"updated": 1472152944068,
+				"type": "Violence and sexual offences",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-a76c9f8e7ee733888970c564140f65c1",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7ab930",
+			"properties": {
+				"compnos": "170c21f80efc3eeba6ef17fcdb18200f9cdfbded68d319ff8888d39e1a1ad0c4",
+				"updated": 1477522795278,
+				"type": "Bicycle theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-3ee5b681875b43529e596f12d13a9235",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7ad306",
+			"properties": {
+				"compnos": "5f08aa787e9ac8b0ddf3b3d3b4a7a9228b16b22b3c8d0f0f70f7bad28efa8f2c",
+				"updated": 1477522795278,
+				"type": "Other theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-95f33607ce2669e44f672e4615393543",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7aefd0",
+			"properties": {
+				"compnos": "2065e093d644bbdf31bdc057fed8822f67a3699ef01ef6c238b62a7309db2d9d",
+				"updated": 1477522795278,
+				"type": "Other theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-150df32ee6237db83f67aeae7b1941bd",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7af6f9",
+			"properties": {
+				"compnos": "1016c8d0f9c124eb3cadceee7b8e7349a87a1576c6d1167b0adc7016ebe434a8",
+				"updated": 1477522795278,
+				"type": "Other theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-a9c4792384916f52b269ad78955b9b0a",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285022c",
+			"properties": {
+				"compnos": "3edb6d5240a74aa301043561e5d3d053498eb8194275e17bbd210a4cfbab68a9",
+				"updated": 1477524350126,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-46a1db0dc81c4983accc723da756f73d",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2850eb2",
+			"properties": {
+				"compnos": "594c2d8c332dacc6d9a32fdac04f772224bf39ca3529d77f7502b9c51eb57487",
+				"updated": 1477524350126,
+				"type": "Burglary",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-90a405956d8d9118bc41367b58d53b40",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2852485",
+			"properties": {
+				"compnos": "8d969a8cdfed70cd35dbc0ec6c91907fc620896fadd181c5f8f31de956048520",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-b95179a02ad7f50bd72ebc9132038402",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285278a",
+			"properties": {
+				"compnos": "17f53d69408080a86ca7ca492d843e039391c62314f4eee95692cd50fd5b3f73",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-7e443be39599192f593f6ed575934069",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b28536f1",
+			"properties": {
+				"compnos": "45dd779995f9d547cd5953ae1ac887a7221c2b36806262fc537e8a6f5048e934",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-9764feb777187018a50ff5fb97213471",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2853986",
+			"properties": {
+				"compnos": "c84d465ddf02eb3f0c9d98b34ec3bdaf5e66bf44635d579956fd8880c930ba65",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-6910ccc5c201f22a65e7302283fa5521",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2855958",
+			"properties": {
+				"compnos": "0077fdcb19ed530e608acdbcc7daa9e416d664750bbc9436126750f6421b376b",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-c818d0474a0ed31713ecccd7b1b7e5a2",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b2857b14",
+			"properties": {
+				"compnos": "f54245b547b01038ec5e504a90c473c8bcd0780393f675577a40eb7629227092",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-77a520b1fe2e02f416f49b4a7a4b646d",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b28595e3",
+			"properties": {
+				"compnos": "05eee11f308b032590e238f36660b253f5aea3c4aa5e1fe7069abfc12d09b153",
+				"updated": 1477524350126,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-2b0c5d9f445e0a9a2b8a4304360a879b",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285a02c",
+			"properties": {
+				"compnos": "44898fef1f8f474606c1f5b3e08d3254b488d974dfb44d1d453e85e2636f80d2",
+				"updated": 1477524350127,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-0844333f25b2af8b2dd1c12df102f05d",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b285b7d1",
+			"properties": {
+				"compnos": "bb3d5c057384833ab3d34eed12b81fb2ad55fb93f3c45dc3131f857faffb5907",
+				"updated": 1477524350127,
+				"type": "Public order",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"compnos": "795094f998c0a31d30e91b95df5b4085c980fa5435ac103a9ca019446d118615",
+				"updated": 1469124210380,
+				"type": "Other theft",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			},
+			"_rev": "1-d6055134b358caea0726a9a8719a553a",
+			"_id": "c286506c9127d016ccf4c49cc1ed87dc",
+			"type": "Feature"
+		},
+		{
+			"properties": {
+				"compnos": "44e7fd4cc21564dcf9b66c521323f2376d69acc71f68f3de71a9f63c795b1b93",
+				"updated": 1469124210380,
+				"type": "Other theft",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			},
+			"_rev": "1-8fb22576211f8d81ab57452c11297660",
+			"_id": "c286506c9127d016ccf4c49cc1eda448",
+			"type": "Feature"
+		},
+		{
+			"properties": {
+				"compnos": "c87621680c1c8ec852e89a963e7f620b832709a6b4441dea90f60f7e546c22f9",
+				"updated": 1469124210380,
+				"type": "Other crime",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			},
+			"_rev": "1-b0bbdd45c7165f643e605c6a5e798a4b",
+			"_id": "c286506c9127d016ccf4c49cc1ede373",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-3e6550e989ab1f414808d1333239bfda",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220dd94e",
+			"properties": {
+				"compnos": "3edb6d5240a74aa301043561e5d3d053498eb8194275e17bbd210a4cfbab68a9",
+				"updated": 1477510177211,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-6db54cb3e275959a96c55d6d584a91a2",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220de68a",
+			"properties": {
+				"compnos": "594c2d8c332dacc6d9a32fdac04f772224bf39ca3529d77f7502b9c51eb57487",
+				"updated": 1477510177211,
+				"type": "Burglary",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-bfa3eb0d2f9241a0b0f9590995e70161",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220df11f",
+			"properties": {
+				"compnos": "8d969a8cdfed70cd35dbc0ec6c91907fc620896fadd181c5f8f31de956048520",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-4aa601517a00cda6c87429b8e65e1717",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e007e",
+			"properties": {
+				"compnos": "17f53d69408080a86ca7ca492d843e039391c62314f4eee95692cd50fd5b3f73",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-4e1cb56a13acb071b541ba1bf5015c7c",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e0873",
+			"properties": {
+				"compnos": "45dd779995f9d547cd5953ae1ac887a7221c2b36806262fc537e8a6f5048e934",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-e61d418806351bee545f85e02cf5c70e",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e0d85",
+			"properties": {
+				"compnos": "c84d465ddf02eb3f0c9d98b34ec3bdaf5e66bf44635d579956fd8880c930ba65",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-4aae6881c808839f64caeb20a73d646a",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e3728",
+			"properties": {
+				"compnos": "0077fdcb19ed530e608acdbcc7daa9e416d664750bbc9436126750f6421b376b",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-e61d34f9a86a6506f5d3a6ed49582029",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e4ed5",
+			"properties": {
+				"compnos": "f54245b547b01038ec5e504a90c473c8bcd0780393f675577a40eb7629227092",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-2742658810604938d560617da3b83477",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e5ceb",
+			"properties": {
+				"compnos": "05eee11f308b032590e238f36660b253f5aea3c4aa5e1fe7069abfc12d09b153",
+				"updated": 1477510177211,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-d1f4cdc48de7e4b7df954aa5f6a80753",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e6bd4",
+			"properties": {
+				"compnos": "44898fef1f8f474606c1f5b3e08d3254b488d974dfb44d1d453e85e2636f80d2",
+				"updated": 1477510177212,
+				"type": "Other theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-7f15b43f91e705f5d5063a46784b67e3",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220e87e9",
+			"properties": {
+				"compnos": "bb3d5c057384833ab3d34eed12b81fb2ad55fb93f3c45dc3131f857faffb5907",
+				"updated": 1477510177212,
+				"type": "Public order",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near Montague Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098062,
+					51.517577
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-329eec3aae8abab73b19ab8a7e948ff1",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ed51a2",
+			"properties": {
+				"compnos": "e0182e635f926bb868424afda45056d8f9b934198ea23781d8ca60b58dc2c347",
+				"updated": 1472152944067,
+				"type": "Bicycle theft",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near King Edward Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098572,
+					51.516767
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-4ba0d9cb7141a4cc871b1e86dc32f38a",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "6adfb3a1056c15b2600f6ba902ed9272",
+			"properties": {
+				"compnos": "2b32734ea51328bb13e6190f17970e517b59955acce324b68493bf5d16d83741",
+				"updated": 1472152944068,
+				"type": "Other theft",
+				"timestamp": 1467345600000,
+				"source": "UK-City of London Police",
+				"location": "On or near King Edward Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098572,
+					51.516767
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-556d4546b23fac4e5ba6c2bad1630a0f",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7a9bef",
+			"properties": {
+				"compnos": "64c85beed14b4931617a397b3eb4b5c52fc5ad7242ad5c0ae36bfaa470871738",
+				"updated": 1477522795271,
+				"type": "Bicycle theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near King Edward Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098572,
+					51.516767
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-c3e73c0938fb489bb700d7827553605f",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "75122cd140339a47700b8d2a0f7af816",
+			"properties": {
+				"compnos": "8d5372225607cb80b2b7a256788dec5963993910794c69b880bbedf420ecbf7b",
+				"updated": 1477522795278,
+				"type": "Other theft",
+				"timestamp": 1472702400000,
+				"source": "UK-City of London Police",
+				"location": "On or near King Edward Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098572,
+					51.516767
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"_rev": "1-797f71d883b5ab70b0376eff26a40981",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "be7548056a3368b8f890cbf8b284f36b",
+			"properties": {
+				"compnos": "408ef921ff37b217af7151eb5476486f3d360306a3c7220e1aa97f264d86d61d",
+				"updated": 1477524350125,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near King Edward Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098572,
+					51.516767
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"properties": {
+				"compnos": "a8470271bf4a9c00705fef28f2fb83aeb1f6a8bfb0a2592eb8ff9f5ff636e564",
+				"updated": 1469124210380,
+				"type": "Bicycle theft",
+				"timestamp": 1464753600000,
+				"source": "UK-City of London Police",
+				"location": "On or near King Edward Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098572,
+					51.516767
+				],
+				"type": "Point"
+			},
+			"_rev": "1-5a7e52ad18c81c2ff664c6878afd6cf4",
+			"_id": "c286506c9127d016ccf4c49cc1ed70c4",
+			"type": "Feature"
+		},
+		{
+			"_rev": "1-385fb39d30c20f0e3e89baade06cd070",
+			"type": "Feature",
+			"Reported by": "City of London Police",
+			"_id": "d38983aad1598555c46cdc7f220dd030",
+			"properties": {
+				"compnos": "408ef921ff37b217af7151eb5476486f3d360306a3c7220e1aa97f264d86d61d",
+				"updated": 1477510177211,
+				"type": "Bicycle theft",
+				"timestamp": 1470024000000,
+				"source": "UK-City of London Police",
+				"location": "On or near King Edward Street"
+			},
+			"geometry": {
+				"coordinates": [-0.098572,
+					51.516767
+				],
+				"type": "Point"
+			}
+		}
+	],
+	"num_rows": 96,
+	"type": "FeatureCollection"
+}

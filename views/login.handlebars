@@ -1,0 +1,56 @@
+<div id = "login-container" class="container">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+<br>
+    <br>
+    <br>
+<br>
+    <br>
+    <br>
+
+    {{#if login_fail}}
+        
+        <div class="alert alert-danger">
+            Incorrect Username and Password
+        </div>
+
+    {{/if}}
+
+    {{#if logout_success}}
+        
+        <div class="alert alert-success">
+            Successfully Logged Out
+        </div>
+
+    {{/if}}
+
+    {{#if registration_success}}
+        
+        <div class="alert alert-success">
+            Successfully Registered
+        </div>
+
+    {{/if}}
+
+
+    <div class="col-sm-12 text-center">
+
+        <form action="/login" method="POST">
+            <input type="text" name="username" placeholder="Username">
+            <br>
+            <br>
+            <input type="password" name="password" placeholder="Password">
+            <br>
+            <br>
+            <input type="submit" class="btn btn-primary btn-lg" value="Login">
+
+        </form>
+
+    </div>
+
+
+</div>

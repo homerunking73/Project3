@@ -1,0 +1,57 @@
+<div id = "map-container">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div id = "map" style="width: 100%; height: 400px; background-color: grey;"></div>
+    <br>
+    <br>
+    <div class="text-center">
+        <a href="logout" class="btn btn-primary btn-lg">Logout</a>
+    </div>
+    <script type="text/javascript">
+        function initMap(){
+            latitude = {{latitude}};
+            longitude = {{longitude}};
+            var location = {
+                lat: latitude,
+                lng: longitude
+            };
+            
+            var map = new google.maps.Map(document.getElementById("map"),{
+                zoom: 15,
+                center: location
+            }); 
+
+
+
+            {{#each crimes}}
+                var crimeLatitude = {{crimeLatitude}};
+                var crimeLongitude = {{crimeLongitude}};
+                var crimeType = "{{crime_type}}";
+                var crimeLocation = {
+                    lat: crimeLatitude,
+                    lng: crimeLongitude
+                };
+
+                var marker = new google.maps.Marker({
+                    position: crimeLocation,
+                    map: map,
+                });
+
+            {{/each}}
+                        
+
+        }
+
+    </script>
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUPbHTKlJL50PjgdnnxpAM6beTVU0LLK0&callback=initMap"
+  type="text/javascript"></script>
+
+    
+
+</div>
+
