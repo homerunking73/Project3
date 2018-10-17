@@ -60,7 +60,7 @@ router.get('/map',(req, res) => {
                     crimes: crimesList,
                     latitude: latitude,
                     longitude: longitude,
-                    username: req.sesssion.username
+                    username: req.session.username
                 }
                 res.render("map", hbsObject);
 
