@@ -59,7 +59,8 @@ router.get('/map',(req, res) => {
                 var hbsObject = {
                     crimes: crimesList,
                     latitude: latitude,
-                    longitude: longitude
+                    longitude: longitude,
+                    username: req.sesssion.username
                 }
                 res.render("map", hbsObject);
 
